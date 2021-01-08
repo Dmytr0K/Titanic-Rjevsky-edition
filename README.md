@@ -1,3 +1,3 @@
 # Titanic-Rjevsky-edition
 
-Please do not try to understand if you are not familiar with Rjevsky
+Please do not try to understand if you ain't familiar with Rjevsky
